@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 ## Collections of questions related to 
-# [Algorithm](/algorithm.html), 
+# [Algorithm](/algorithm), 
 # Machine Learning, 
 # Data Mining, 
 # Deep Learning, 
