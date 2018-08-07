@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 ## Collections of questions related to 
 # [Algorithm](/questions/algorithm), 
-# Machine Learning, 
+# [Machine Learning](/questions/MachineLearning), 
 # Data Mining, 
 # Deep Learning, 
 # Image processing, 
