@@ -10,3 +10,4 @@
 | Machine Learning Specialization (coursera.org) | [link](https://www.coursera.org/specializations/machine-learning?siteID=jU79Zysihs4-6PUVmMjdsvAPAcyupQK71g&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=jU79Zysihs4) | 
 | Machine Learning Recipes with Josh Gordon (youtube.com) | [link](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) | 
 | Machine Learning Crash Course (developers.google.com) | [link](https://developers.google.com/machine-learning/crash-course/) | 
+| Neural Networks and Deep Learning (neuralnetworksanddeeplearning.com) | [link](http://neuralnetworksanddeeplearning.com/) | 
