@@ -2,4 +2,4 @@
 
 |   Resource | Links |
 | ---------- | ----- |
-| Python Machine Learning Tutorial | [link] https://www.python-course.eu/machine_learning.php | 
+| Python Machine Learning Tutorial | [link](https://www.python-course.eu/machine_learning.php) | 
