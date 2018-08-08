@@ -12,3 +12,5 @@ Here is a time efficient solution with O(n) extra space. The ugly-number sequenc
 
 ## Fibonacci numbers
 $$ F_n = F_{n-1} + F_{n-2} $$
+$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+
