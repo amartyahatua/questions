@@ -11,6 +11,8 @@ Here is a time efficient solution with O(n) extra space. The ugly-number sequenc
 ## Catalan Number
 
 ## Fibonacci numbers
-$$ F_n = F_{n-1} + F_{n-2} $$
+$$ 
+F_n = F_{n-1} + F_{n-2} 
+$$
 
 
