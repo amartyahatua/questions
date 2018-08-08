@@ -42,3 +42,5 @@ We will be covering Optimal Substructure Property and some more example problems
 Try following questions as an exercise of this post.
 1) Write a Memoized solution for LCS problem. Note that the Tabular solution is given in the CLRS book.
 2) How would you choose between Memoization and Tabulation?
+
+# What is optimal substructure property (OSP) ? Why finding shortest path finding paroblem has OSP but does not have in longest path finding problem? 
