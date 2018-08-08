@@ -7,6 +7,11 @@
 | Hacker Earth          | [link](https://www.hackerearth.com/) |
 | Hacker Rank           | [link](https://www.hackerrank.com/) |
 
+# Dynamic Programming (DP)
+DP has two important properties: 
+1. Overlapping subproblems 
+2. Optimal substructure
+
 # Overlapping Subproblems Property in Dynamic Programming | (DP-1) [link](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
 
 Dynamic Programming is an algorithmic paradigm that solves a given complex problem by breaking it into subproblems and stores the results of subproblems to avoid computing the same results again. Following are the two main properties of a problem that suggests that the given problem can be solved using Dynamic programming.
