@@ -7,7 +7,7 @@
 | Hacker Earth          | [link](https://www.hackerearth.com/) |
 | Hacker Rank           | [link](https://www.hackerrank.com/) |
 
-# Dynamic Programming (DP)
+# Dynamic Programming ([DP](/questions/dynamicprogram))
 DP has two important properties: 
 1. Overlapping subproblems 
 2. Optimal substructure
